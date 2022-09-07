@@ -1,2 +1,3 @@
 hi
-some changes form <master> - new changes!
+some changes form <master>: here is new changes!
+some changes from the first branch
