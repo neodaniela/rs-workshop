@@ -1,2 +1,2 @@
 hi
-some changes form <master>
+some changes form <master> - new changes!
